@@ -1,5 +1,5 @@
 {
-  "name": "angular-carbon",
+  "name": "@nicollaspereira/angular-carbon",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -43,5 +43,22 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicollasMatheus37/angular-utils.git"
+  },
+  "keywords": [
+    "angular",
+    "utils",
+    "date"
+  ],
+  "author": "nicollaspereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicollasMatheus37/angular-utils/issues"
+  },
+  "homepage": "https://github.com/NicollasMatheus37/angular-utils#readme"
 }
